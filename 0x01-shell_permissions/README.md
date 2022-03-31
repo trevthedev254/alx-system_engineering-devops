@@ -8,3 +8,4 @@
 7-everybody - Script that adds execution permission to the owner, the group owner and the other users, to the file hello.
 8-James_Bond - owner, group no permission others all
 9-John_Doe - owner all, group execute, others write execute.
+10-mirror_permissions - Copy File Permissions to Another File
