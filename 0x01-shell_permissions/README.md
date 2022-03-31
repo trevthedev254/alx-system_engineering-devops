@@ -7,3 +7,4 @@
 6-multiple_permissions - Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 7-everybody - Script that adds execution permission to the owner, the group owner and the other users, to the file hello.
 8-James_Bond - owner, group no permission others all
+9-John_Doe - owner all, group execute, others write execute.
