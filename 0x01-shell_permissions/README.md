@@ -9,3 +9,4 @@
 8-James_Bond - owner, group no permission others all
 9-John_Doe - owner all, group execute, others write execute.
 10-mirror_permissions - Copy File Permissions to Another File
+11-directories_permissions - Add execute for all subdirectories
