@@ -10,3 +10,4 @@
 9-John_Doe - owner all, group execute, others write execute.
 10-mirror_permissions - Copy File Permissions to Another File
 11-directories_permissions - Add execute for all subdirectories
+12-directory_permissions - Script that creates a directory called my_dir with permissions 751 in the working directory.
